@@ -6,7 +6,7 @@ This repository contains code for Named Entity Recognition (NER) using the CoNLL
 The CoNLL 2003 dataset consists of English and German news articles annotated with named entities. It provides labeled data for training and evaluating NER models.
 
 ### Models
-We implemented several machine learning models for NER:
+I implemented several machine learning models for NER:
 Gradient Boosting (XGBoost)
 
 ### Results
