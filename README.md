@@ -8,8 +8,6 @@ The CoNLL 2003 dataset consists of English and German news articles annotated wi
 ### Models
 We implemented several machine learning models for NER:
 Gradient Boosting (XGBoost)
-Usage
-To train and evaluate the models, follow these steps:
 
 ### Results
 The performance of each model is evaluated using metrics such as precision, recall, and F1 score. The best performing model is then selected for inference.
